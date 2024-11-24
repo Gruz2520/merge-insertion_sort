@@ -21,5 +21,5 @@
 ### Другое
 - [Реализация классов ArrayGenerator и SortTester](src/release.cpp)
 - id посылки на codeforces: [292898982](https://dsahse.contest.codeforces.com/group/NOflOR1Qt0/contest/565612/submission/292898982)
-- [публичный репозиторий](https://github.com/Gruz2520/monte_carlo_area) 
+- [публичный репозиторий](https://github.com/Gruz2520/merge-insertion_sort) 
 
